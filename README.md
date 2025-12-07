@@ -1,13 +1,13 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=header"/>
 <h1 align='center'> Hello, I'm Braga! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<h3 align='center'>
+<p align='center'>
 I'm a Computer Science student. Very interested in Backend Development and Cybersecurity
-</h3>
+</p>
 
 ---
 
-<h1 align='center'> TECH STACK <img src="" width="50"></h1>
+<h3 align='center'> Tech Stack <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxhZTQyaXc3b240cHh0MTZwaTlwbnFseGF5cmF5a2l5aWtvc3p5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg1bhkbPqMfKNS2run/giphy.gif" width="50"></h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-00FFF7?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kali_Linux-5586A6?style=for-the-badge&logo=kalilinux&logoColor=white"/>
