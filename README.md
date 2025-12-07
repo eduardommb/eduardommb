@@ -28,3 +28,9 @@ I'm a Computer Science student. Very interested in Backend Development and Cyber
 
 ---
 
+<h3 align='center'> Reach me <img src="" width="20"></h3>
+<p align="center">
+  <a href="https://linkedin.com/in/-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://eduardommb.github.io/adce/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
+  <a href="lemb@cesar.school"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
