@@ -7,7 +7,7 @@ I'm a Computer Science student. Very interested in Backend Development and Cyber
 
 --- 
 
-<h3 align='center'> Tech Stack <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxhZTQyaXc3b240cHh0MTZwaTlwbnFseGF5cmF5a2l5aWtvc3p5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg1bhkbPqMfKNS2run/giphy.gif" width="20"></h3>
+<h3 align='center'><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxhZTQyaXc3b240cHh0MTZwaTlwbnFseGF5cmF5a2l5aWtvc3p5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg1bhkbPqMfKNS2run/giphy.gif" width="20"> Tech Stack</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-00FFF7?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kali_Linux-5586A6?style=for-the-badge&logo=kalilinux&logoColor=white"/>
@@ -28,9 +28,16 @@ I'm a Computer Science student. Very interested in Backend Development and Cyber
 
 ---
 
-<h3 align='center'> Reach me 🌐</h3>
+<h3 align='center'>🌐 Reach me </h3>
 <p align="center">
   <a href="https://linkedin.com/in/-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://eduardommb.github.io/adce/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
   <a href="lemb@cesar.school"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+<h3 align='center'>📊 Github Stats </h3>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eduardommb&theme=shadow-purple" alt="GitHub Streak" /></a>
 </p>
