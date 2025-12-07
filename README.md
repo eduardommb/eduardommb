@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=header"/>
-<h1 align='center'> Hello, I'm Braga! <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxhZTQyaXc3b240cHh0MTZwaTlwbnFseGF5cmF5a2l5aWtvc3p5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg1bhkbPqMfKNS2run/giphy.gif" width="30"></h2>
+<h1 align='center'> Hello, I'm Braga! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlhYWwwa2t0YzFxZWYxb3ppajJrbXl1bnNjOTAxN3JqYWpjczM3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NUKZFDXyaa0Hqg7rt7/giphy.gif" width="30"></h2>
 
 <p align='center'>
 I'm a Computer Science student. Very interested in Backend Development and Cybersecurity
