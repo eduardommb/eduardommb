@@ -28,7 +28,7 @@ I'm a Computer Science student. Very interested in Backend Development and Cyber
 
 ---
 
-<h3 align='center'> Reach me <img src="" width="20"></h3>
+<h3 align='center'> Reach me <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZm5ibjlsODVhNThieGNzdGp0NW5tcWplbzNmc251YzQyZnl4MWJ4eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NUKZFDXyaa0Hqg7rt7/giphy.gif" width="20"></h3>
 <p align="center">
   <a href="https://linkedin.com/in/-"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://eduardommb.github.io/adce/"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=firefox&logoColor=white"/></a>
