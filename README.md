@@ -1,9 +1,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=header"/>
-<h1 align='center'> Hello, I'm Braga! <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnlhYWwwa2t0YzFxZWYxb3ppajJrbXl1bnNjOTAxN3JqYWpjczM3byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/NUKZFDXyaa0Hqg7rt7/giphy.gif" width="35"></h2>
+<h1 align='center'> Hello, I'm Braga! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2IydmhlZnB1NnBlc2I3bjdpZnJ3eHAydXhnMWhpZ2VkYndzdHBrdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lWxG18p1SOlEc/giphy.gif" width="35"></h2>
 
 <p align='center'>
 I'm a Computer Science student. Very interested in Backend Development and Cybersecurity
 </p>
+
+--- 
 
 <h3 align='center'> Tech Stack <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxhZTQyaXc3b240cHh0MTZwaTlwbnFseGF5cmF5a2l5aWtvc3p5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg1bhkbPqMfKNS2run/giphy.gif" width="20"></h3>
 <p align="center">
@@ -23,6 +25,8 @@ I'm a Computer Science student. Very interested in Backend Development and Cyber
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS%20Code-007acc?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
+
+---
 
 <h3 align='center'> Reach me 🌐</h3>
 <p align="center">
