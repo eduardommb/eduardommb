@@ -2,7 +2,7 @@
 <h2 align='center'> Hello, I'm Eduardo Braga! 👋🏼 </h2>
 
 <p align='center'>
-I'm a Computer Science student. Very interested in Backend Development and Cybersecurity
+I'm a Computer Science student. Very interested in Fullstack Development and Cybersecurity
 </p>
 
 --- 
