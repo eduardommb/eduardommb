@@ -1,5 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8b5cf6&height=120&section=header"/>
-<h2 align='center'> Hello, I'm Eduardo Braga! <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGoyYXN0b3B5a3VlaGt1NTVwaXI5Y3dmNjV6cDBwc3BpM240ZHY0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/gEXqY1dzw7xOALE7ul/giphy.gif" width="25"></h2>
+<h2 align='center'> Hello, I'm Eduardo Braga! 👋🏼 </h2>
 
 <p align='center'>
 I'm a Computer Science student. Very interested in Backend Development and Cybersecurity
