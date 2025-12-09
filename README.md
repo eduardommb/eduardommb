@@ -39,6 +39,5 @@ I'm a Computer Science student. Very interested in Fullstack Development and Cyb
 
 <h3 align='center'>📊 Github Stats </h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eduardommb&show_icons=true&theme=shadow-purple" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=eduardommb&theme=shadow-purple" alt="GitHub Streak" />
 </p>
