@@ -9,7 +9,9 @@ I'm a Computer Science student. Very interested in Fullstack Development and Cyb
 
 <h3 align='center'><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGxhZTQyaXc3b240cHh0MTZwaTlwbnFseGF5cmF5a2l5aWtvc3p5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/eg1bhkbPqMfKNS2run/giphy.gif" width="20"> Tech Stack</h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-00FFF7?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kali_Linux-5586A6?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bash-00FFF7?style=for-the-badge&logo=gnubash&logoColor=white"/>
